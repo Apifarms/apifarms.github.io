@@ -3,9 +3,6 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
-import Bio from '../components/Bio'
-import { rhythm } from '../utils/typography'
-
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
@@ -17,10 +14,15 @@ class BlogIndex extends React.Component {
         {posts.map(({ node }) => {
           const title = get(node, 'frontmatter.title') || node.fields.slug
           return (
-            <div key={node.fields.slug}>
+            <div 
+              style={{
+                maxWidth: "75ch",
+              }}
+              key={node.fields.slug}
+            >
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginBottom: "0.3625rem",
                 }}
               >
                 <Link style={{ boxShadow: 'none' }} to={node.fields.slug}>
@@ -56,6 +58,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "DD MMMM, YYYY")
             title
+            include_in_index
           }
         }
       }

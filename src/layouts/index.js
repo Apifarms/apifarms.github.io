@@ -1,9 +1,9 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import { Container } from 'react-responsive-grid'
 import get from 'lodash/get';
+import { NavBar } from '../components/navbar.js';
 
-import { rhythm, scale } from '../utils/typography'
+import 'bootstrap/dist/css/bootstrap.css';
 
 class Template extends React.Component {
   render() {
@@ -18,57 +18,30 @@ class Template extends React.Component {
       rootPath = __PATH_PREFIX__ + `/`
     }
 
-    if (location.pathname === rootPath) {
-      header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-            to={'/'}
-          >
-            {siteTitle}
-          </Link>
-        </h1>
-      )
-    } else {
-      header = (
-        <h3
-          style={{
-            marginTop: 0,
-          }}
-        >
-          <Link
-            style={{
-              boxShadow: 'none',
-              textDecoration: 'none',
-              color: 'inherit',
-            }}
-            to={'/'}
-          >
-            {siteTitle}
-          </Link>
-        </h3>
-      )
-    }
+    header = (
+      <NavBar 
+        currentPath={location.pathname}
+        siteTitle={siteTitle}
+        links={[
+          {to: "/about", display : "About"},
+          {to: "/services", display: "Services"},
+        ]}
+      />
+    )
+
     return (
-      <Container
-        style={{
-          maxWidth: rhythm(24),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
+      <div>
         {header}
-        {children()}
-      </Container>
+        <div className="container">
+          <main 
+            style={{
+              padding: "40px 15px 0"
+            }}
+          >
+            {children()}
+          </main>
+        </div>
+      </div>
     )
   }
 }
