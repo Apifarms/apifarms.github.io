@@ -1,12 +1,13 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import get from 'lodash/get'
+import get from 'lodash/get';
+import reject from 'lodash/get';
 import Helmet from 'react-helmet'
 
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
-    const posts = get(this, 'props.data.allMarkdownRemark.edges')
+    const posts = reject(get(this, 'props.data.allMarkdownRemark.edges'), "frontmatter.exclude");
 
     return (
       <div>
@@ -58,7 +59,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "DD MMMM, YYYY")
             title
-            include_in_index
+            exclude
           }
         }
       }

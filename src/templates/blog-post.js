@@ -5,11 +5,19 @@ import get from 'lodash/get'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
+    const include_hr = !get(post, "frontmatter.exclude_hr");
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
+
 
     return (
       <div>
-        <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
+        <Helmet 
+          title={
+            post.frontmatter.title ? 
+            `${post.frontmatter.title} | ${siteTitle}` :
+            siteTitle
+          }
+        />
         <h1>{post.frontmatter.title}</h1>
         <p
           style={{
@@ -22,11 +30,9 @@ class BlogPostTemplate extends React.Component {
           {post.frontmatter.date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: "1.45rem",
-          }}
-        />
+        { include_hr && 
+          <hr style={{marginBottom: "1.45rem"}} />
+        }
       </div>
     )
   }
@@ -48,6 +54,8 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        exclude_hr
+        exclude
       }
     }
   }

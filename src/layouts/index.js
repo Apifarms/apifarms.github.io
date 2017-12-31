@@ -2,8 +2,10 @@ import React from 'react'
 import Link from 'gatsby-link'
 import get from 'lodash/get';
 import { NavBar } from '../components/navbar.js';
-
+import { SideBar, Sidebar } from '../components/sidebar.js';
 import 'bootstrap/dist/css/bootstrap.css';
+
+import "./index.scss";
 
 class Template extends React.Component {
   render() {
@@ -30,16 +32,48 @@ class Template extends React.Component {
     )
 
     return (
-      <div>
-        {header}
-        <div className="container">
+      <div style={{minHeight:"inherit"}}>
+        <div className="row no-gutters" style={{minHeight:"inherit"}}>
+          <div className="col-lg-3 sidebar-col" 
+            style={{display: "flex"}}
+          >
+            <div className="sidebar-container">
+              <Sidebar
+                siteTitle={siteTitle}
+                links={[
+                  {
+                    to: "/host-a-hive",
+                    display: "Host a hive",
+                  },
+                  {
+                    to: "/seeds",
+                    display: "Flower seeds",
+                  },
+                  {
+                    to: "/bee-catching",
+                    display: "Bee catching services",
+                  },
+                  {
+                    to: "/about",
+                    display:"About us",
+                  },
+                  {
+                    to: "/contact",
+                    display: "Contact us!"
+                  }
+                ]}
+              />
+            </div>
+          </div>
+          <div className="col-lg-9 main-content-col">
           <main 
             style={{
               padding: "40px 15px 0"
             }}
           >
             {children()}
-          </main>
+          </main>    
+          </div>
         </div>
       </div>
     )
