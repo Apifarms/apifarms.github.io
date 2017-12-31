@@ -5,7 +5,7 @@ module.exports = {
     description: 'A bee and hemp compnay',
     //siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/website',
   plugins: [
     'gatsby-plugin-sass',
     {
