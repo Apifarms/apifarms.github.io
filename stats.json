@@ -1,0 +1,58 @@
+{
+  "assetsByChunkName": {
+    "path---": [
+      "path----5b1ac03a4c0014df367f.js",
+      "path----5b1ac03a4c0014df367f.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-019b71a10de885ec8200.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-019b71a10de885ec8200.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-8c42c62ecca17d043783.js",
+      "component---src-templates-blog-post-js-8c42c62ecca17d043783.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-a14765bdeff94810787d.js",
+      "component---src-layouts-index-js-a14765bdeff94810787d.js.map"
+    ],
+    "path---bee-catching": [
+      "path---bee-catching-2f893cbc4e02b01e5891.js",
+      "path---bee-catching-2f893cbc4e02b01e5891.js.map"
+    ],
+    "path---index": [
+      "path---index-ceb04406b814111d97f5.js",
+      "path---index-ceb04406b814111d97f5.js.map"
+    ],
+    "commons": [
+      "commons-5f49b2a7256bc28b6596.js",
+      "commons-5f49b2a7256bc28b6596.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a4e62b4a1b7cc25f4fb5.js",
+      "path---contact-a4e62b4a1b7cc25f4fb5.js.map"
+    ],
+    "path---host-a-hive": [
+      "path---host-a-hive-5f8281bd3b45b67ffb46.js",
+      "path---host-a-hive-5f8281bd3b45b67ffb46.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-b0147941e305527b47e6.js",
+      "build-js-styles.css",
+      "app-b0147941e305527b47e6.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---seeds": [
+      "path---seeds-18dd709431110226c8c7.js",
+      "path---seeds-18dd709431110226c8c7.js.map"
+    ],
+    "path---about": [
+      "path---about-256522ce0479c7ff69aa.js",
+      "path---about-256522ce0479c7ff69aa.js.map"
+    ]
+  }
+}

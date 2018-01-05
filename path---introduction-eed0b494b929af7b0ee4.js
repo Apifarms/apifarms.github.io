@@ -1,0 +1,2 @@
+webpackJsonp([0x989e9c333148],{354:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Apifarms",author:"ApiFarms"}},markdownRemark:{id:"/Users/Alex-TBS/Documents/code/bee-project/src/pages/introduction/index.md absPath of file >>> MarkdownRemark",html:"<p>Hi there, we’re ApiFarms and we </p>",frontmatter:{title:"Introducing apifarms",date:"December 10, 2017"}}},pathContext:{slug:"/introduction/"}}}});
+//# sourceMappingURL=path---introduction-eed0b494b929af7b0ee4.js.map
