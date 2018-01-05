@@ -1,58 +1,58 @@
 {
   "assetsByChunkName": {
-    "component---src-pages-index-js": [
-      "component---src-pages-index-js-fe581877c9a15c1f358e.js",
-      "component---src-pages-index-js-fe581877c9a15c1f358e.js.map"
-    ],
     "path---": [
       "path----5b1ac03a4c0014df367f.js",
       "path----5b1ac03a4c0014df367f.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
-      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
-      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-019b71a10de885ec8200.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-019b71a10de885ec8200.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-1819a699939d03034510.js",
-      "component---src-templates-blog-post-js-1819a699939d03034510.js.map"
+      "component---src-templates-blog-post-js-8c42c62ecca17d043783.js",
+      "component---src-templates-blog-post-js-8c42c62ecca17d043783.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2536bbfb0d01dc902c30.js",
-      "component---src-layouts-index-js-2536bbfb0d01dc902c30.js.map"
+      "component---src-layouts-index-js-a14765bdeff94810787d.js",
+      "component---src-layouts-index-js-a14765bdeff94810787d.js.map"
+    ],
+    "path---bee-catching": [
+      "path---bee-catching-2f893cbc4e02b01e5891.js",
+      "path---bee-catching-2f893cbc4e02b01e5891.js.map"
     ],
     "path---index": [
-      "path---index-ac415c6b51aad55586e9.js",
-      "path---index-ac415c6b51aad55586e9.js.map"
-    ],
-    "path---introduction": [
-      "path---introduction-eed0b494b929af7b0ee4.js",
-      "path---introduction-eed0b494b929af7b0ee4.js.map"
+      "path---index-ceb04406b814111d97f5.js",
+      "path---index-ceb04406b814111d97f5.js.map"
     ],
     "commons": [
-      "commons-dd6fd2af12ccc9301063.js",
-      "commons-dd6fd2af12ccc9301063.js.map"
+      "commons-5f49b2a7256bc28b6596.js",
+      "commons-5f49b2a7256bc28b6596.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a4e62b4a1b7cc25f4fb5.js",
+      "path---contact-a4e62b4a1b7cc25f4fb5.js.map"
+    ],
+    "path---host-a-hive": [
+      "path---host-a-hive-5f8281bd3b45b67ffb46.js",
+      "path---host-a-hive-5f8281bd3b45b67ffb46.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-06f7fc4a7046185b734c.js",
+      "app-b0ce4b9b78d0096d7fb9.js",
       "build-js-styles.css",
-      "app-06f7fc4a7046185b734c.js.map",
+      "app-b0ce4b9b78d0096d7fb9.js.map",
       "build-js-styles.css.map"
     ],
-    "path---services": [
-      "path---services-196b0ce641d3b9886802.js",
-      "path---services-196b0ce641d3b9886802.js.map"
-    ],
-    "path---timeline": [
-      "path---timeline-a550b28f85fd315e558b.js",
-      "path---timeline-a550b28f85fd315e558b.js.map"
+    "path---seeds": [
+      "path---seeds-18dd709431110226c8c7.js",
+      "path---seeds-18dd709431110226c8c7.js.map"
     ],
     "path---about": [
-      "path---about-8ffc0b6e8a4ef77c9dc5.js",
-      "path---about-8ffc0b6e8a4ef77c9dc5.js.map"
+      "path---about-256522ce0479c7ff69aa.js",
+      "path---about-256522ce0479c7ff69aa.js.map"
     ]
   }
 }
