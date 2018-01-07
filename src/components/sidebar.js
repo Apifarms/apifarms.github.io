@@ -20,7 +20,7 @@ export const Sidebar = props => {
       }}
     >
       <img
-        className="card-img-top"
+        className="sidebar-main-image"
         aria-hidden
         src={beeImage}
       />
@@ -32,9 +32,9 @@ export const Sidebar = props => {
             textDecoration: "none",
           }}
         >
-          <h4 className="card-title sidebar-title">
+          <header className="h4 card-title sidebar-title">
             {siteTitle}
-          </h4>
+          </header>
         </Link>
         <p className="card-text"></p>
       </div>

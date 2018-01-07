@@ -3,6 +3,14 @@
   padding: 1.25rem;
 }
 
+.sidebar-main-image {
+  max-width: 50%;
+  align-self: flex-end;
+  @media(max-width: 992px){
+    align-self: center;
+  }
+}
+
 
 .sidebar-title {
   text-align: right;
