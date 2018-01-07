@@ -1,6 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import get from 'lodash/get'
+import './blog-post.scss'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -8,6 +9,7 @@ class BlogPostTemplate extends React.Component {
     const include_hr = !get(post, "frontmatter.exclude_hr");
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
 
+    const image = get(post, "frontmatter.image");
 
     return (
       <div>
@@ -18,17 +20,22 @@ class BlogPostTemplate extends React.Component {
             siteTitle
           }
         />
-        <h1>{post.frontmatter.title}</h1>
-        <p
-          style={{
-            fontSize: "0.8rem",
-            display: 'block',
-            marginBottom: "1.45rem",
-            marginTop: "-1rem",
-          }}
-        >
-          {post.frontmatter.date}
-        </p>
+        <div className="blog-post-heading">
+          <h1 className="blog-post-title">
+            {post.frontmatter.title}
+          </h1>
+          { image && 
+            <img 
+              src={image.childImageSharp.responsiveSizes.src}
+              aria-hidden
+              className="blog-post-thumbnail"
+              style={{
+                maxWidth: "400px",
+                maxHeight: "400px",
+              }}
+            />
+          }
+        </div>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         { include_hr && 
           <hr style={{marginBottom: "1.45rem"}} />
@@ -56,6 +63,13 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         exclude_hr
         exclude
+        image {
+          childImageSharp {
+            responsiveSizes {
+              src
+            }
+          }
+        }
       }
     }
   }

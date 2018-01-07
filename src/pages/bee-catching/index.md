@@ -1,12 +1,10 @@
 ---
 title: Bee catching services
 date: "2017-12-10T22:12:03.284Z"
+image: "./ottawa_sign_bees.jpg"
 ---
 
 We offer swarm extractions.
-
-<img style="float: right;" alt="Bee swarm on a Ottawa highway sign" src="./ottawa_sign_bees.jpg" />
-
 
 Swarms can appear in lots of places and we are happy to offer the service of capturing the swarm. We would do that for free and we always guarantee that we will take great care of them. 
 

@@ -6,6 +6,8 @@ module.exports = {
     //siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
   },
   plugins: [
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
     'gatsby-plugin-sass',
     {
       resolve: `gatsby-source-filesystem`,
