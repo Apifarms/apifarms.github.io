@@ -3,6 +3,7 @@ import React from 'react';
 import classNames from 'classnames';
 import MediaQuery from 'react-responsive';
 import './sidebar.scss';
+import beeImage from './bee-icon.svg';
 
 
 const MobileOnly = props => <MediaQuery {...props} maxWidth={991} />
@@ -18,6 +19,11 @@ export const Sidebar = props => {
         backgroundColor: "inherit",
       }}
     >
+      <img
+        className="card-img-top"
+        aria-hidden
+        src={beeImage}
+      />
       <div className="card-block">
         <Link 
           to={"/"}
