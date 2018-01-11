@@ -13,7 +13,7 @@ const DesktopOnly = props => <MediaQuery {...props} minWidth={992} />
 export const Sidebar = props => {
   const { siteTitle, currentPath, links, } = props;
   return (
-    <div className="card" 
+    <div className="card sidebar-card" 
       style={{
         borderColor:"transparent",
         backgroundColor: "inherit",

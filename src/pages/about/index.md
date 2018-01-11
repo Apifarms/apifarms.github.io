@@ -4,7 +4,7 @@ date: "2017-12-10T22:12:03.284Z"
 ---
 
 
-The ApiFarm team is made up by local bee enthusiasts and professionals who have a heart to make a positive environmental impact.
+The ApiFarms team is made up by local bee enthusiasts and professionals who have a heart to make a positive environmental impact.
 In our team we have Jean-Guy Vaillancourt the founder of ApiFarms, who enjoys maintaining hives and informing people about the beneficial aspects of flowers. Patrick Joubarne takes care of maintaining the hives and likes to keep up with modern bee technology. Peter Stolarski helps with the maintenance of hives and is always thinking of new ways to enhance our phytosanitary practices.   
 
 
@@ -15,7 +15,9 @@ In our team we have Jean-Guy Vaillancourt the founder of ApiFarms, who enjoys ma
 
 ### Jean-Guy Vaillancourt
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Jean-Guy Vaillancourt is a professional agricultural technician who specializes in organic agriculture. When he's not developing sustainable agricultural practices in the industrial hemp industry, he's still enjoying nature through his hobby of bee keeping. His infectious passion for his hobby has organically grown into ApiFarms.
+
+
 
 ### Peter Stolarski
   

@@ -4,27 +4,7 @@ date: "2017-12-10T22:12:03.284Z"
 ---
 
 
-If you have any inquiries, please email us: [name@mail.com](name@mail.com)
-
-## Looking for someone in particular ?
-
-<hr>
-
-
-### Jean-guy Vaillancourt
-
-* (###) ###-####
-* name@mail.com
-
-
-### Pat Joubarne
-
-* (###) ###-####
-* name@mail.com
-
-### Peter Stolarski
-
-* (###) ###-####
-* name@mail.com
-
+Contact us for any inquiries
+*  [infoapifarms@gmail.com](infoapifarms@gmail.com)
+* 613 915-0806
 

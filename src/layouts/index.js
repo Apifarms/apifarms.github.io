@@ -34,7 +34,7 @@ class Template extends React.Component {
     return (
       <div style={{minHeight:"inherit"}}>
         <div className="row no-gutters" style={{minHeight:"inherit"}}>
-          <div className="col-lg-3 sidebar-col" 
+          <div className="col-lg-4 sidebar-col" 
             style={{display: "flex"}}
           >
             <div className="sidebar-container">
@@ -65,7 +65,7 @@ class Template extends React.Component {
               />
             </div>
           </div>
-          <div className="col-lg-9 main-content-col">
+          <div className="col-lg-8 main-content-col">
           <main 
             style={{
               padding: "40px 15px 0"
