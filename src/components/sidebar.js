@@ -32,7 +32,7 @@ export const Sidebar = props => {
             textDecoration: "none",
           }}
         >
-          <header className="h4 card-title sidebar-title">
+          <header className="card-title sidebar-title">
             {siteTitle}
           </header>
         </Link>

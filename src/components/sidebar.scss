@@ -15,12 +15,19 @@
   }
 
   @media(max-width: 992px){
-    font-size: 1.8em;
+    font-size: 1.0em;
   } 
 
   header {
     font-size: 4.2rem;
     font-weight: 100;
+
+    margin: 0;
+
+    @media(max-width: 992px){
+      font-size: 2.2em;
+    }
+
   }
 }
 
