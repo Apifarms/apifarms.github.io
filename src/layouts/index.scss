@@ -1,5 +1,9 @@
 @import '../global';
 
+$gradLineColor: black;
+$sidebarYellow: #f0ad4e;
+
+
 body {
   @media (min-width: 992px){
     min-height: 100vh !important;
@@ -23,14 +27,28 @@ body {
   }
 }
 
+$honeycombFactor : 0.75;
+
+.sidebar-col { 
+
+  background: radial-gradient(circle farthest-side at 0% 50%,$sidebarYellow 23.5%,rgba(240,166,17,0) 0) $honeycombFactor * 31px  $honeycombFactor * 45px,
+  radial-gradient(circle farthest-side at 0% 50%,$gradLineColor 24%,rgba(240,166,17,0) 0) $honeycombFactor * 28.5px $honeycombFactor * 45px,
+  linear-gradient($sidebarYellow 14%,rgba(240,166,17,0) 0, rgba(240,166,17,0) 85%,$sidebarYellow 0)0 0,
+  linear-gradient(150deg,$sidebarYellow 24%,$gradLineColor 0,$gradLineColor 26%,rgba(240,166,17,0) 0,rgba(240,166,17,0) 74%,$gradLineColor 0,$gradLineColor 76%,$sidebarYellow 0)0 0,
+  linear-gradient(30deg,$sidebarYellow 24%,$gradLineColor 0,$gradLineColor 26%,rgba(240,166,17,0) 0,rgba(240,166,17,0) 74%,$gradLineColor 0,$gradLineColor 76%,$sidebarYellow 0)0 0,
+  linear-gradient(90deg,$gradLineColor 2%,$sidebarYellow 0,$sidebarYellow 98%,$gradLineColor 0%)0 0 $sidebarYellow;
+  background-size: $honeycombFactor * 60px $honeycombFactor * 90px;
+
+}
+
 .sidebar-container  {
   flex: 1 1 100%;
   padding: 1.25rem;
   display: flex;
   justify-content: flex-end;
-  background-color: #f0ad4e; 
-
-
+  
+  background-color: rgba(240, 173, 78, 0.9);
+  
   text-transform: uppercase;
   letter-spacing: 0.15em;
   

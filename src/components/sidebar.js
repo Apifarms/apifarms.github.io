@@ -17,7 +17,8 @@ export const Sidebar = props => {
     <div className="card sidebar-card" 
       style={{
         borderColor:"transparent",
-        backgroundColor: "inherit",
+        //backgroundColor: "rgba(255,187,17,0.1)",
+        backgroundColor:"transparent",
       }}
     >
       <img
@@ -33,7 +34,12 @@ export const Sidebar = props => {
             textDecoration: "none",
           }}
         >
-          <header className="card-title sidebar-title">
+          <header 
+            className="card-title sidebar-title"
+            style={{
+              fontWeight: 300
+            }}
+          >
             {siteTitle}
           </header>
         </Link>
