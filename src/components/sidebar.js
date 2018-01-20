@@ -3,7 +3,8 @@ import React from 'react';
 import classNames from 'classnames';
 import MediaQuery from 'react-responsive';
 import './sidebar.scss';
-import beeImage from './bee-icon.svg';
+//import beeImage from './bee-icon.svg';
+import beeImage from './apifarms-logo.gif';
 
 
 const MobileOnly = props => <MediaQuery {...props} maxWidth={991} />
