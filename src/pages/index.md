@@ -7,12 +7,12 @@ exclude_hr: "true"
 
 ## Welcome to ApiFarms!
 
-Our mission is to combat the declining bee population and pollinator insects while taking an Holistic approach to urban and rural agricultural methods. 
+Our mission is to combat the declining bee population while taking a holistic approach to urban and rural apiculture. 
 
-We aim to do this by educating the public on maintaining rural and urban hives and wildflower mixes. Our hive service customers can expect  fully installed, continuously maintained hive for a full year and up to 70% of the honey harvest.  
-
-
-We pride ourselves on 4 core values authenticity, transparency, respect and adventure. At ApiFarms we see the need into educating the public on environmentally friendly practices with our authenticity and transparency values the public can be assured that they are receiving the best answers that we can provide. We do all our work while respecting the environment, the bees, the pollinator insects and the public. We understand that respect must be earned and we are confident that by listening attentively, understanding individual situations and being patient we will earn your respect. Finally but not least adventure, each of our relationships are great adventures and we always say that work can be fun. 
+We aim to do this through educating the surrounding Ottawa community by implementing and maintaining the modern bee hive right in the comfort of your own yard. With the option to supplement your garden with flower seed mixes, you can expect fully installed and continuously maintained hives for a full year and a guanranteed 70% of the honey harvest.  
 
 
-We look forward at serving our community and the environment for the years to come. Feel free to contact us with any related questions and we'll be happy to get back to you in a brief delay.       
+We pride ourselves on 4 core values: authenticity, transparency, respect and adventure. At ApiFarms we understand the importance of educating the public on environmentally friendly practices. With our authenticity and transparency values, the public can be assured that our services are the highest quality that can be provided. Our work is carried out dilligently while respecting the environment, the bees, other pollinator insects and the general public. We understand that respect must be earned and we are confident that by listening attentively and understanding individual situations we will earn your respect. Lastly but not least,  adventure: each of our relationships are great adventures and work can always be fun. 
+
+
+We look forward to serving our community and the environment for the years to come. Please don't hesitate to [contact us](./contact/) with any related questions.       
