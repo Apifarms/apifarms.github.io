@@ -16,13 +16,17 @@
       "component---src-layouts-index-js-bd49760c519449c6d9fe.js",
       "component---src-layouts-index-js-bd49760c519449c6d9fe.js.map"
     ],
+    "path---host-a-hive-old-shit": [
+      "path---host-a-hive-old-shit-a0e2f87132dca14be8ed.js",
+      "path---host-a-hive-old-shit-a0e2f87132dca14be8ed.js.map"
+    ],
     "path---bee-catching": [
       "path---bee-catching-d2d225be26078c06450d.js",
       "path---bee-catching-d2d225be26078c06450d.js.map"
     ],
     "path---index": [
-      "path---index-eaf06d4b44c2fa0ac83d.js",
-      "path---index-eaf06d4b44c2fa0ac83d.js.map"
+      "path---index-2afc2a32d9b0b48fb755.js",
+      "path---index-2afc2a32d9b0b48fb755.js.map"
     ],
     "commons": [
       "commons-5f49b2a7256bc28b6596.js",
@@ -33,17 +37,17 @@
       "path---contact-7405d5baab06b328b09d.js.map"
     ],
     "path---host-a-hive": [
-      "path---host-a-hive-72dba33dcdcbbd6a6ef4.js",
-      "path---host-a-hive-72dba33dcdcbbd6a6ef4.js.map"
+      "path---host-a-hive-26e8fdb3a6300e3b6f4c.js",
+      "path---host-a-hive-26e8fdb3a6300e3b6f4c.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-bd1a0db4d993a454edeb.js",
+      "app-58b92b7b1a8dc732c5d7.js",
       "build-js-styles.css",
-      "app-bd1a0db4d993a454edeb.js.map",
+      "app-58b92b7b1a8dc732c5d7.js.map",
       "build-js-styles.css.map"
     ],
     "path---seeds": [
