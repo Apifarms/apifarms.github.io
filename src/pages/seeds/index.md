@@ -3,12 +3,16 @@ title: Flower seed services
 date: "2017-12-10T22:12:03.284Z"
 ---
 
-We offer a line of friendly polinator flowers which allow bees to feed themselves during different periodes of the season.
+We offer a line of flower mixes that allow bees to feed from spring to fall.
 
-In addition to helping bees directly, these plants can also improve other areas of the ecosystem, such as  beneficial insects, butterflies, hummingbirds. 
+In addition to helping bees directly, these plants also promote other areas of the ecosystem, such as  beneficial insects, butterflies and hummingbirds. 
 
-Deer resistant mixes are also available.
+Each choice of flower contributes to a unique honey flavour profile. 
 
+Deer resistant flower mixes are also available.
+
+
+We generally plant 125g of flower mix per 90 square meter. These mixes are a great solution. 
 
 To be sowed at 125g per 90 sq. m. (1/4lb per 1000 sq. ft.). The mixes are all unique and easy to care for. Most of them sow themselves for the years to come. These mixes are a great solution to bringing back life into it be your backyards, fields and municipalities. Please contact us for more information, we have an agricultural technician to assist with any questions.  
 
@@ -16,7 +20,12 @@ To be sowed at 125g per 90 sq. m. (1/4lb per 1000 sq. ft.). The mixes are all un
 <div class="row" style="margin:2rem; 0">
   <div class="col-sm-6">
     <div class="card">
-      <img style="width:400px;height: 300px" class="card-img-top" src="./coquelicot-4x3.png" alt="Card image cap" />
+      <img 
+        style="width:400px;height: 300px"
+        class="card-img-top" 
+        src="./coquelicot-4x3.png" 
+        alt="Card image cap" 
+      />
       <div class="card-block">
         <p class="card-text">Poppy</p>
       </div>
@@ -24,7 +33,12 @@ To be sowed at 125g per 90 sq. m. (1/4lb per 1000 sq. ft.). The mixes are all un
   </div>
   <div class="col-sm-6">
     <div class="card">
-      <img style="width:400px;height: 300px"  class="card-img-top" src="./yellow-flower-4x3.png" alt="Card image cap" />
+      <img 
+        style="width:400px;height: 300px"  
+        class="card-img-top" 
+        src="./yellow-flower-4x3.png" 
+        alt="Card image cap" 
+      />
       <div class="card-block">
         <p class="card-text">Brown eyed Susan</p>
       </div>

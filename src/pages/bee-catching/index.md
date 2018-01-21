@@ -6,10 +6,7 @@ image: "./ottawa_sign_bees.jpg"
 
 We offer swarm extractions.
 
-Swarms can appear in lots of places and we are happy to offer the service of capturing the swarm. We would do that for free and we always guarantee that we will take great care of them. 
-
-Swarming is when bees leave their hives and go feral, we capture those swarm like that we can keep a better control on their health. Capturing swarms can be complicated at times, every situation is evaluated differently.
-
+Swarming is when bees leave their hives and end up in remote shelters.  
 
 If you come by a bee swarm please [contact us](/contact) as soon as possible.
 

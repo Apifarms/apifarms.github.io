@@ -21,9 +21,9 @@ Jean-Guy Vaillancourt is a professional agricultural technician who specializes 
 
 ### Peter Stolarski
   
-Life moves fast and sometimes we get distracted by the little things. Although sometimes, it’s the little things that can make all the difference, and with some directive attention we can truly grasp the bigger picture. Imagine a thriving community that relies on another thriving community – that’s humanity with bees. The apparent changes to our api-biotic environment observed across the turn of the century is staggering – and it is only the beginning if things do not improve for the wellness of our buzzing fellows. If there’s one thing that drives us towards helping the community, its recognizing that honey is thicker than blood.
+Imagine a community that relies on another thriving community – that’s humanity with bees. The apparent changes to the apicultural environment and its impact on biodiversity observed across the last half century is staggering – and it is only the beginning if greater efforts are not made to improve the wellness of our buzzing fellows.
 
 ### Patrick Joubarne
 
-Bees are a magnificent creature, from the complexity and simplicity of their anatomy to their beauty. Their ability to work organize and plan make for a very intelligent species. A colony's productivity provides a connecting pattern to nature. Unleashing a humble sense of being in all of us. With out their wholesome hard work, the world would see no future. The humble honey bee keeps the flowing stream of everlasting life on earth. They're gentle majestic pollinators that nature has provided us naturally. Humanity has made it its own responsibility to keep a balance in this ecosystem.
+Bees are a magnificent creature, from the complexity and simplicity of their anatomy to their beauty. Their ability to work organize and plan make for a very intelligent species. A colony's productivity provides a connecting pattern to nature. With out their wholesome hard work, the world would see no future. They're gentle majestic pollinators that nature has provided us naturally. Humanity has made it its own responsibility to keep a balance in this ecosystem. 
 
