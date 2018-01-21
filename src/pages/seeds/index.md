@@ -12,9 +12,7 @@ Each choice of flower contributes to a unique honey flavour profile.
 Deer resistant flower mixes are also available.
 
 
-We generally plant 125g of flower mix per 90 square meter. These mixes are a great solution. 
-
-To be sowed at 125g per 90 sq. m. (1/4lb per 1000 sq. ft.). The mixes are all unique and easy to care for. Most of them sow themselves for the years to come. These mixes are a great solution to bringing back life into it be your backyards, fields and municipalities. Please contact us for more information, we have an agricultural technician to assist with any questions.  
+We generally plant 125g of flower mix per 90 square meters. These mixes are a great solution to bringing back life into your backyards, fields and municipalities. Please [contact us](./contact/) for more information.
 
 
 <div class="row" style="margin:2rem; 0">
