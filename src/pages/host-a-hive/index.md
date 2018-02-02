@@ -3,10 +3,10 @@ title: Host a hive
 date: "2017-12-10T22:12:03.284Z"
 ---
 
-ApiFarms is all about bringing the beekeeping experience directly to you: whether you're a homeowner, a farmer, or know somewhere in the community that could benefit from biodiversity. We offer personal, industrial and community based partnerships and we are able to install hives in lots of different locations such as community gardens, orchards, rooftops, backyards and parks.
+ApiFarms is all about bringing the beekeeping experience directly to you, both in urban and rural settings. We can install hives in a variety of locations, such as community gardens, orchards, rooftops, backyards and parks.
 
 
-Hosting a hive with ApiFarms is as easy as one two three. 
+Hosting a hive with us a is simple three step process: 
 
 ### 1. Inspection
 
