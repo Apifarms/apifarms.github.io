@@ -2,6 +2,7 @@
 include_in_index: "false"
 exclude: "true" 
 exclude_hr: "true"
+image: "./urban.jpg"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: Host a hive
 date: "2017-12-10T22:12:03.284Z"
+image: "./group.jpg"
 ---
 
 ApiFarms is all about bringing the beekeeping experience directly to you, both in urban and rural settings. We can install hives in a variety of locations, such as community gardens, orchards, rooftops, backyards and parks.
