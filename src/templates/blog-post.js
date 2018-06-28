@@ -1,7 +1,8 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import get from 'lodash/get'
-import './blog-post.scss'
+import React from 'react';
+import Helmet from 'react-helmet';
+import get from 'lodash/get';
+import isEmpty from 'lodash/isEmpty';
+import './blog-post.scss';
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -10,6 +11,8 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
 
     const image = get(post, "frontmatter.image");
+
+    const title = get(post,"frontmatter.title");
 
     return (
       <div>
@@ -21,19 +24,23 @@ class BlogPostTemplate extends React.Component {
           }
         />
         <div className="blog-post-heading">
-          <h1 className="blog-post-title">
-            {post.frontmatter.title}
-          </h1>
+          { !isEmpty(title) && 
+            <h1 className="blog-post-title">
+              {title}
+            </h1>
+          }
           { image && 
-            <img 
-              src={image.childImageSharp.responsiveSizes.src}
-              aria-hidden
-              className="blog-post-thumbnail"
-              style={{
-                maxWidth: "400px",
-                maxHeight: "400px",
-              }}
-            />
+            <div className="blog-post-thumbnail-container">
+              <img 
+                src={image.childImageSharp.responsiveSizes.src}
+                aria-hidden
+                className="blog-post-thumbnail"
+                style={{
+                  maxWidth: "400px",
+                  maxHeight: "400px",
+                }}
+              />
+            </div>
           }
         </div>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />

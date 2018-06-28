@@ -6,13 +6,15 @@
 
 }
 
+.blog-post-thumbnail-container {
+  display: flex;
+  justify-content: center;
+}
+
 .blog-post-thumbnail {
   max-width: 400px;
   max-height: 400px;
 
-  @media(max-width: 992px){
-    display: none;
-  }
 }
 
 .blog-post-content {
