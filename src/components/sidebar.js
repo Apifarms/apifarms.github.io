@@ -46,8 +46,11 @@ export const Sidebar = props => {
         <p className="card-text"></p>
       </div>
       <ul className="list-group list-group-flush">
-        {links.map( ({to, display})=>
-          <li className="list-group-item list-group-item--sidebar">
+        {links.map( ({to, display},ix)=>
+          <li
+            key={ix}
+            className="list-group-item list-group-item--sidebar"
+          >
             <Link 
               to={to}
               className="nav-link"
